@@ -45,7 +45,7 @@ in this folder there are two files contained:
 4. **tests** - contains all excecutble tests
 
 **How to run the tests**
- To run the tests, you just need to run the following command.
+To run the tests, you just need to run the following command.
 <test path> testcafe chrome tests/
 
 e.g
